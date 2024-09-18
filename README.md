@@ -1,0 +1,1 @@
+# quiz-demo-replicator-with-named-collections
